@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+    text-align: center;
+    color:rgb(255, 255, 255)
+}
+h1 {
+    color:rgb(255, 255, 255)
+}
+div {
+    cursor:auto
+    background-color: grey;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif
+}
+img {
+    border-style:ridge;
+}
+h3 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+
